@@ -48,8 +48,8 @@ Take the following steps to generate a visualization of the data:<br>
     * Create a histogram to visualize the most common salary ranges for employees.<br>
     * Create a bar chart of average salary by title.
     
-    ![image](https://user-images.githubusercontent.com/72557712/120234284-e9a57000-c214-11eb-815f-0d7a5f9da354.png)
+   ![image](https://user-images.githubusercontent.com/72557712/120234284-e9a57000-c214-11eb-815f-0d7a5f9da354.png)
     
-    ![image](https://user-images.githubusercontent.com/72557712/120234324-f75af580-c214-11eb-839a-88dff6b41fd9.png)
+   ![image](https://user-images.githubusercontent.com/72557712/120234324-f75af580-c214-11eb-839a-88dff6b41fd9.png)
 
 
