@@ -14,6 +14,9 @@
 #### Data Modeling
 * Sketch out an ERD of the tables. (http://www.quickdatabasediagrams.com).
 
+![image](https://user-images.githubusercontent.com/72557712/120234246-d4304600-c214-11eb-97a4-947ba3e92c97.png)
+
+
 #### Data Engineering
 * Create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
 * Be sure to create tables in the correct order to handle foreign keys.
@@ -44,3 +47,9 @@ Take the following steps to generate a visualization of the data:<br>
     * Import the SQL database into Pandas.<br>
     * Create a histogram to visualize the most common salary ranges for employees.<br>
     * Create a bar chart of average salary by title.
+    
+    ![image](https://user-images.githubusercontent.com/72557712/120234284-e9a57000-c214-11eb-815f-0d7a5f9da354.png)
+    
+    ![image](https://user-images.githubusercontent.com/72557712/120234324-f75af580-c214-11eb-839a-88dff6b41fd9.png)
+
+
